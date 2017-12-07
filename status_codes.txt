@@ -1,0 +1,13 @@
+Status codes
+
+- 1 = OK
+- 2 = Wrong data
+- 3 = Passwords don't match
+- 4 = Email already in use
+- 5 = Username already in use
+- 6 = Error while uploading file
+- 7 = Empty fields
+- 8 = Wrong password
+- 9 = Password too short
+- 10 = Passwords are identical
+- 11 = User already following

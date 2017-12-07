@@ -1,0 +1,6 @@
+Emergency types
+
+- 1 = Donation
+- 2 = Public services
+- 3 = Natual disaster
+- 4 = Amber alert
